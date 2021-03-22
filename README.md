@@ -1,5 +1,4 @@
-# building simple API using spring boot and swagger ui,
-and AWS for store Mysql database 
+# building simple API using spring boot and swagger ui
 
 
 ![](https://github.com/AhmedElSayed3210/spring_boot_swagger/blob/main/1.png)
